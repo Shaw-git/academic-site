@@ -27,7 +27,7 @@ feature:
   name: Data Science
   
 - description: Android App Development, Embedded Development
-  icon: tablet-android
+  icon: fa-tablet-android
   icon_pack: fad
   name: Mobile Development
 
