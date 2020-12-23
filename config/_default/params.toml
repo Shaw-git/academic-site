@@ -97,7 +97,7 @@ address = {street = "Higher Education Mega Center", city = "Guangzhou", region =
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "23.090035754540416", longitude = "113.30221652984619"}
+coordinates = {latitude = "23.060119", longitude = "113.421775"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
