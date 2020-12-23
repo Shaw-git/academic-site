@@ -93,11 +93,11 @@ email = "lixiao37@mail2.sysu.edu.cn"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Higher Education Mega Center Waihuan Road", city = "Guangzhou", region = "GZ", postcode = "510006", country = "China", country_code = "CN"}
+address = {street = "Higher Education Mega Center", city = "Guangzhou", region = "GZ", postcode = "510006", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "23.090035754540416", longitude = "113.30221652984619"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
