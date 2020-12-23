@@ -1,7 +1,7 @@
 title: Textile Defects Detection System
 summary: Detect Defects on the Surface of Textile Based on Deep Learning.
 tags:
-- Defects Detection
+- defects detection
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
