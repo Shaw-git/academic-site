@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Gait Analysis
+    tag: Deep Learning
   - name: Other
     tag: Demo
 
