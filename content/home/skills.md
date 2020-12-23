@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Python/C++/Matlab
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Programming
 - description: 100%
   icon: chart-line
   icon_pack: fas
@@ -27,7 +27,7 @@ feature:
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Tools
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
