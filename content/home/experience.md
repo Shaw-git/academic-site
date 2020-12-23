@@ -35,11 +35,11 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Intern
+    company: Duke Kunshan University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: China
+    date_start: '2019-08-01'
+    date_end: '2019-12-01'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
