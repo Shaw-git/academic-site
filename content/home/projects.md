@@ -31,6 +31,8 @@ content:
     tag: Deep Learning
   - name: Gait Analysis
     tag: Deep Learning
+  - name: Textile Defeats Detection System
+    tag: Defects Detection
   - name: Other
     tag: Demo
 
