@@ -1,3 +1,4 @@
+---
 title: Textile Defects
 summary: Detect Defects on the Surface of Textile Based on Deep Learning.
 tags:
