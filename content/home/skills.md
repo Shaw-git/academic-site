@@ -27,8 +27,8 @@ feature:
   name: Data Science
   
 - description: Android App Development, Embedded Development
-  icon: fa-tablet-android
-  icon_pack: fad
+  icon: fa-android
+  icon_pack: fab
   name: Mobile Development
 
 - description: Qt Creator, 3D Builder 
