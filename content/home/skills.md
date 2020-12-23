@@ -16,20 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python, C++, Matlab
+- description: Python, C/C++, Matlab
   icon: r-project
   icon_pack: fab
   name: Programming
   
-- description: OpenCV, Open3D, Numpy
+- description: Pytorch, OpenCV, Open3D, Numpy, Matplotlab
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Data Science
   
-- description: OpenCV, Open3D, Numpy
-  icon: camera-retro
-  icon_pack: fas
-  name: Tools
+- description: Android App Development, Embedded Development
+  icon: tablet-android
+  icon_pack: fad
+  name: Mobile Development
 
 - description: Qt Creator, 3D Builder 
   icon: camera-retro
