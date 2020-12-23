@@ -27,14 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
   - name: Gait Analysis
     tag: Deep Learning
-  - name: Textile Defeats Detection System
+  - name: Textile Defeats Detection
     tag: Defects Detection
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
