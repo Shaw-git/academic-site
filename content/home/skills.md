@@ -21,18 +21,18 @@ feature:
   icon_pack: fab
   name: Programming
   
-- description: Pytorch, OpenCV, Open3D, Numpy, Matplotlab
+- description: Pytorch, OpenCV, Open3D, \n Numpy, Matplotlab
   icon: chart-line
   icon_pack: fas
   name: Data Science
   
-- description: Android App Development, Embedded Development
+- description: Android App Development, \n Embedded Development
   icon: android
   icon_pack: fab
   name: Mobile Development
 
 - description: Qt Creator, 3D Builder 
-  icon: camera-retro
+  icon: drafting-compass
   icon_pack: fas
   name: Design
 
