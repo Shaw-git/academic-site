@@ -8,7 +8,7 @@ authors:
 # tags:
 # - Academic
 # - 开源
-# categories:
+categories:
 - Demo
 # - 教程
 date: "2016-04-20T00:00:00Z"
