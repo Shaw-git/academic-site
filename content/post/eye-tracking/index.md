@@ -1,6 +1,6 @@
 ---
-title: 'Appearance-Based Eye-Tracking Technology'
-subtitle: 'Follow an individual's gaze and eye movement using RGB face image :rocket:'
+title: Appearance-Based Eye-Tracking Technology
+subtitle: Follow an individual's gaze and eye movement using RGB face image
 summary: Follow an individual's gaze and eye movement using RGB face image.
 authors:
 - admin
