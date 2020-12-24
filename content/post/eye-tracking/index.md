@@ -1,6 +1,6 @@
 ---
 title: 'Appearance-Based Eye-Tracking Technology'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+subtitle: 'Estimate where users are looking at using RGB camera :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
@@ -53,10 +53,10 @@ projects: []
   - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
 
 {{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+
 
 **Key features:**
-
+{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 - **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
 - **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
 - **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
