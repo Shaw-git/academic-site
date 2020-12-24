@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Programming
   
-- description: Pytorch, OpenCV, Open3D, Numpy, Matplotlab
+- description: Pytorch, OpenCV, Open3D, Numpy, Matplotlab, Common Machine Learning Models
   icon: chart-line
   icon_pack: fas
   name: Data Science
