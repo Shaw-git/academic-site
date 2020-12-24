@@ -31,7 +31,9 @@ feature:
   icon_pack: fab
   name: Mobile Development
 
-- description: Windows, Linux, Embeded System GPU Server, Nvidia Jetson Series, Arduino Series,  Raspberry Pi Series
+- description: Windows, Linux, Embeded System, 
+
+GPU Server, Nvidia Jetson Series, Arduino Series,  Raspberry Pi Series
   icon: microchip
   icon_pack: fas
   name: Platform
