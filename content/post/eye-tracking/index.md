@@ -1,7 +1,7 @@
 ---
 title: 'Appearance-Based Eye-Tracking Technology'
-subtitle: 'Estimate the focus point of users are looking at using RGB face image :rocket:'
-summary: Estimate where users are looking at using RGB face image.
+subtitle: 'Follow an individual's gaze and eye movement using RGB face image :rocket:'
+summary: Follow an individual's gaze and eye movement using RGB face image.
 authors:
 - admin
 - Dong Zhang
