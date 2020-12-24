@@ -21,22 +21,22 @@ feature:
   icon_pack: fab
   name: Programming
   
-- description: Pytorch, OpenCV, Open3D, Numpy, Matplotlab, Common Machine Learning Models
+- description: Pytorch, OpenCV, Open3D, Numpy, Matplotlab <br /> Common Machine Learning Models
   icon: chart-line
   icon_pack: fas
   name: Data Science
   
-- description: Android App Development, Embedded Development
+- description: Android App Development <br /> Embedded Development
   icon: android
   icon_pack: fab
   name: Mobile Development
 
-- description: GPU Server, Nvidia Jetson Series, Arduino, Raspberry Pi
+- description: GPU Server, Nvidia Jetson Series <br /> Arduino, Raspberry Pi
   icon: microchip
   icon_pack: fas
   name: Platform
 
-- description: UI Design with Qt Creator, <br /> 3D Object Design with 3D Builder
+- description: UI Design with Qt Creator <br /> 3D Object Design with 3D Builder
   icon: drafting-compass
   icon_pack: fas
   name: Design
