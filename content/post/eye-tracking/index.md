@@ -1,7 +1,7 @@
 ---
 title: 'Appearance-Based Eye-Tracking Technology'
 subtitle: 'Estimate where users are looking at using RGB camera :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+summary: Estimate where users are looking at using RGB camera.
 authors:
 - admin
 - Dong Zhang
@@ -100,8 +100,3 @@ Then [personalize and deploy your new site](https://sourcethemes.com/academic/do
 
 Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
 
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
