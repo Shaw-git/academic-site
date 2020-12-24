@@ -1,7 +1,7 @@
 ---
 title: 'Appearance-Based Eye-Tracking Technology'
-subtitle: 'Estimate where users are looking at using RGB camera :rocket:'
-summary: Estimate where users are looking at using RGB camera.
+subtitle: 'Estimate the focus point of users are looking at using RGB face image :rocket:'
+summary: Estimate where users are looking at using RGB face image.
 authors:
 - admin
 - Dong Zhang
