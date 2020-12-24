@@ -31,6 +31,11 @@ feature:
   icon_pack: fab
   name: Mobile Development
 
+- description: Nvidia Jetson Series, Arduino,  Raspberry pi
+  icon: microchip
+  icon_pack: fas
+  name: Platform
+
 - description: Qt Creator, 3D Builder 
   icon: drafting-compass
   icon_pack: fas
