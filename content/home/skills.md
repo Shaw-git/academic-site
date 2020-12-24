@@ -31,7 +31,7 @@ feature:
   icon_pack: fab
   name: Mobile Development
 
-- description: GPU Server, Nvidia Jetson Series, Arduino Series,  Raspberry Pi Series
+- description: GPU Server, Nvidia Jetson Series, Arduino, Raspberry Pi
   icon: microchip
   icon_pack: fas
   name: Platform
