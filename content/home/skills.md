@@ -36,7 +36,7 @@ feature:
   icon_pack: fas
   name: Platform
 
-- description: UI Design with Qt Creator, 3D Object Design with 3D Builder 
+- description: 'UI Design with Qt Creator, \n 3D Object Design with 3D Builder '
   icon: drafting-compass
   icon_pack: fas
   name: Design
