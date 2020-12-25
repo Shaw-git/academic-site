@@ -43,7 +43,7 @@ item:
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   
 # - certificate_url: https://www.datacamp.com
-  date_end: ""
+- date_end: ""
   date_start: "2018-09-01"
   description: ""
   organization: Sun Yat-sen University
