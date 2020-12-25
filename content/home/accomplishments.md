@@ -29,7 +29,7 @@ item:
   date_start: "2020-06-12"
   description: ""
   organization: Sun Yat-sen University
-  organization_url: www.sysu.edu.cn
+  organization_url: http://www.sysu.edu.cn/
   title: Outstanding Graduate
   url: ""
   
@@ -38,7 +38,7 @@ item:
   date_start: "2019-09-01"
   description: ""
   organization: Sun Yat-sen University
-  organization_url: www.sysu.edu.cn
+  organization_url: http://www.sysu.edu.cn/
   title: First Class Scholarship
   url: ""
   
@@ -47,7 +47,7 @@ item:
   date_start: "2018-09-01"
   description: ""
   organization: Sun Yat-sen University
-  organization_url: www.sysu.edu.cn
+  organization_url: http://www.sysu.edu.cn/
   title: Second Class Scholarship
   url: ""
   
