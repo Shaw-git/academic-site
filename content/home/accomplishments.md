@@ -40,7 +40,7 @@ item:
   organization: Sun Yat-sen University
   organization_url: www.sysu.edu.cn
   title: First Class Scholarship
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: ""
   
 # - certificate_url: https://www.datacamp.com
 - date_end: ""
