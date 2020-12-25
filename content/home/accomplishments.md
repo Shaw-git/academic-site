@@ -30,7 +30,7 @@ item:
   description: ""
   organization: Sun Yat-sen University
   organization_url: sysu.edu.cn
-  title: [**Outstanding Graduate**]
+  title: Outstanding Graduate
   url: ""
   
 - certificate_url: https://www.edx.org
