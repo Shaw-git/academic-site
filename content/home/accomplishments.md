@@ -29,25 +29,35 @@ item:
   date_start: "2020-06-12"
   description: ""
   organization: Sun Yat-sen University
-  organization_url: sysu.edu.cn
+  organization_url: www.sysu.edu.cn
   title: Outstanding Graduate
   url: ""
   
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2019-09-01"
+  description: ""
+  organization: Sun Yat-sen University
+  organization_url: www.sysu.edu.cn
+  title: First Class Scholarship
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   
 - certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_end: ""
+  date_start: "2018-09-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Sun Yat-sen University
+  organization_url: www.sysu.edu.cn
+  title: Second Class Scholarship
   url: ""
+  
+ - certificate_url: https://www.datacamp.com
+  date_end: ""
+  date_start: "2016-09-01"
+  description: "MCM/ICM Contest"
+  organization: the Consortium for Mathematics and Its Application (COMAP)
+  organization_url: https://www.comap.com/undergraduate/contests/
+  title: Meritorious Winner
+  url: ""
+  
 ---
