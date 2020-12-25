@@ -42,7 +42,7 @@ item:
   title: First Class Scholarship
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   
-- certificate_url: https://www.datacamp.com
+# - certificate_url: https://www.datacamp.com
   date_end: ""
   date_start: "2018-09-01"
   description: ""
@@ -51,8 +51,8 @@ item:
   title: Second Class Scholarship
   url: ""
   
-- certificate_url: https://www.datacamp.com
-  date_end: ""
+# - certificate_url: https://www.datacamp.com
+- date_end: ""
   date_start: "2016-09-01"
   description: ""
   organization: the Consortium for Mathematics and Its Application (COMAP)
