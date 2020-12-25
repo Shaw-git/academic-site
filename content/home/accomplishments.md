@@ -33,8 +33,8 @@ item:
   title: Outstanding Graduate
   url: ""
   
-- certificate_url: https://www.edx.org
-  date_end: ""
+# - certificate_url: https://www.edx.org
+- date_end: ""
   date_start: "2019-09-01"
   description: ""
   organization: Sun Yat-sen University
