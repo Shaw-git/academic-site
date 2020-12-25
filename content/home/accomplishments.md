@@ -55,7 +55,7 @@ item:
   date_end: ""
   date_start: "2016-09-01"
   description: "MCM/ICM Contest"
-  organization: the Consortium for Mathematics and Its Application (COMAP)
+  organization: the Consortium for Mathematics and Its Application
   organization_url: https://www.comap.com/undergraduate/contests/
   title: Meritorious Winner
   url: ""
